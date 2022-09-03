@@ -35,7 +35,7 @@ public class Measure
 {
     public void run2( double a,double b,int i)
     {
-        Console.WriteLine(" output of user " + (i+1));
+        Console.WriteLine(" output of speed " + (i+1));
         Console.WriteLine(a / b);
     }
 }
