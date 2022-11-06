@@ -5,6 +5,7 @@ public class Dataset
 {
     public List<double>distance = new List<double>();
     public List<double> time = new List<double>(); 
+    public List<double>speed = new List<double>();
 }
 public class UserInput
 {
